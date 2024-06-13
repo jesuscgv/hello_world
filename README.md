@@ -15,33 +15,20 @@ Me estoy preparando para ser Pentester. Me encanta explorar vulnerabilidades y a
 
 ### Desarrollo Web
 - **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express, MongoDB, SQL
+- **Backend**: Node.js, Rust, Php
 
 ### Desarrollo de Videojuegos
 Estoy aprendiendo sobre diseño y desarrollo de juegos utilizando motores como Unity y Unreal Engine.
 
 ### Matemáticas
-Me fascina la teoría de números, álgebra y cálculo, y disfruto aplicando estos conocimientos en mis proyectos de programación.
+Me fascina la teoría de grafos, álgebra y cálculo, y disfruto aplicando estos conocimientos en mis proyectos de programación.
 
-## 🌟 Proyectos
-
-### [Proyecto de Ciberseguridad](#)
-Descripción breve del proyecto de ciberseguridad que has realizado o en el que estás trabajando.
-
-### [Aplicación Web](#)
-Descripción breve de una aplicación web desarrollada con las tecnologías mencionadas anteriormente.
-
-### [Juego en Unity](#)
-Descripción breve de un juego que has creado o en el que estás trabajando.
 
 ## 📫 Contacto
 
-- **Correo**: tuemail@ejemplo.com
-- **LinkedIn**: [Tu Perfil de LinkedIn](#)
-- **GitHub**: [Tu Perfil de GitHub](#)
+- **Correo**: jesus.contreras@udc.es
 
-¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades y proyectos futuros que este viaje me depara.
+¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades y proyectos futuros.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
